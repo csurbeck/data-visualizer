@@ -1,0 +1,17 @@
+#buttons {
+  margin: auto;
+  width: 500px;
+}
+
+#buttons button {
+  border: none;
+  background-color: lightblue;
+  color: white;
+  padding: 10px;
+  border-radius: 12px;
+  margin: auto;
+}
+
+#buttons button:hover {
+  background-color: blue;
+}
